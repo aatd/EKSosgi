@@ -1,0 +1,7 @@
+Bundle-Name: EKSa Impl NummerSpeicher
+Bundle-Description: Ein Bundle, dass dem Nummerspeicher aus dem Basisklasseninterface implementiert
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: de.thkoeln.eksa.osgi.impl.nummernspeicher.ActivatorNummernSpeicher
+Import-Package: org.osgi.framework, de.thkoeln.eksa.osgi.sonstigedienste 
+

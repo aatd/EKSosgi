@@ -1,0 +1,6 @@
+Bundle-Name: EKSa Impl KundeKontoVerwaltung
+Bundle-Description: Ein Bundle, dass die KundeKontoVerwaltung aus dem Basisklasseninterface implementiert
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: de.thkoeln.eksa.osgi.impl.kundekontoverwaltung.ActivatorKundeKontoVerwaltung
+Import-Package: org.osgi.framework, de.thkoeln.eksa.osgi.verwaltung, de.thkoeln.eksa.osgi.sonstigedienste, de.thkoeln.eksa.osgi.entitaetsklassen

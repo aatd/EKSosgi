@@ -1,0 +1,6 @@
+Bundle-Name: EKSa Basis
+Bundle-Description: Enthält alle Basisklassen die die Funktionen der API beschreibt
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Export-Package: de.thkoeln.eksa.osgi.sonstigedienste, de.thkoeln.eksa.osgi.verwaltung, de.thkoeln.eksa.osgi.entitaetsklassen
+Import-Package: org.osgi.framework
